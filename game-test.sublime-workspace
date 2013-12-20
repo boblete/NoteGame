@@ -1,0 +1,1176 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vide",
+				"videoPath"
+			],
+			[
+				"PLa",
+				"PLAYER_VARS"
+			],
+			[
+				"exec",
+				"executableType"
+			],
+			[
+				"repla",
+				"replaceWith	replaceWith"
+			],
+			[
+				"noI",
+				"noInstrumentErrorBoolean"
+			],
+			[
+				"pageTurn",
+				"pageTurnHeight"
+			],
+			[
+				"check",
+				"checkCurrentPageHeight"
+			],
+			[
+				"vi",
+				"viewState"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"main",
+				"mainSound"
+			],
+			[
+				"seeka",
+				"seekableEnd"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"instrumentLoad",
+				"instrumentLoaded"
+			],
+			[
+				"allLoad",
+				"allloadedTest"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"mainsound",
+				"mainSound"
+			],
+			[
+				"Pos",
+				"position"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"prependT",
+				"prependText"
+			],
+			[
+				"destr",
+				"destruct"
+			],
+			[
+				"isntrumentOff",
+				"instrumentOffTextures"
+			],
+			[
+				"instrumentOff",
+				"instrumentOffTextures"
+			],
+			[
+				"currentIns",
+				"currentInstrumentID"
+			],
+			[
+				"json",
+				"jsonOff"
+			],
+			[
+				"instrum",
+				"instrumentObject"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"element",
+				"elementID"
+			],
+			[
+				"app",
+				"append	.append"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"notes",
+				"notes_array"
+			],
+			[
+				"start",
+				"startAnimatingAfterSetup"
+			],
+			[
+				"B",
+				"B"
+			],
+			[
+				"not",
+				"notename"
+			],
+			[
+				"PIXI",
+				"PIXI_text"
+			],
+			[
+				"goto",
+				"gotoAndStop"
+			],
+			[
+				"inst",
+				"instrumentArray"
+			],
+			[
+				"anim",
+				"animinstrument"
+			],
+			[
+				"PIX",
+				"PIXIrenderer"
+			],
+			[
+				"pixi",
+				"PIXIstage"
+			],
+			[
+				"Pixi",
+				"PIXIstage"
+			],
+			[
+				"kick",
+				"kickoff"
+			],
+			[
+				"file",
+				"filePaths"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"obje",
+				"objectHeight"
+			],
+			[
+				"dr",
+				"dragArray"
+			],
+			[
+				"xml",
+				"xmlFile"
+			],
+			[
+				"ini",
+				"initPoint"
+			],
+			[
+				"left",
+				"topLeft"
+			],
+			[
+				"bb",
+				"getBBox"
+			],
+			[
+				"dro",
+				"dropset"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"sa",
+				"satteliteEnabledBoolean"
+			],
+			[
+				"sattelite",
+				"satteliteEnabled"
+			],
+			[
+				"pop",
+				"popupGroup"
+			],
+			[
+				"an",
+				"aniamtion"
+			],
+			[
+				"menu",
+				"menuIndex"
+			],
+			[
+				"cu",
+				"currentMenuIndex"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"men",
+				"menuIndex"
+			],
+			[
+				"offset",
+				"offsetY"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"tras",
+				"translate"
+			],
+			[
+				"wor",
+				"worldTitleText"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"fill",
+				"fill-opacity"
+			],
+			[
+				"ribbon",
+				"ribbonSrc"
+			],
+			[
+				"sta",
+				"stageActiveArr"
+			],
+			[
+				"stageAc",
+				"stageActiveArr"
+			],
+			[
+				"stage",
+				"stageActiveArray"
+			],
+			[
+				"lear",
+				"LearnTheSong"
+			],
+			[
+				"finish",
+				"finishSetup"
+			],
+			[
+				"type",
+				"dataType"
+			],
+			[
+				"exe",
+				"executableType"
+			],
+			[
+				"cent",
+				"centerwidth"
+			],
+			[
+				"perc",
+				"percent"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"show",
+				"showError"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"sor",
+				"sortCues"
+			],
+			[
+				"err",
+				"noInstrumentErrorBoolean"
+			],
+			[
+				"unin",
+				"uninjectInstrument"
+			],
+			[
+				"dat",
+				"dataloadednumber"
+			],
+			[
+				"data",
+				"dataloadedtext"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"requestA",
+				"requestAnimationFrame"
+			],
+			[
+				"docFrag",
+				"docFragOff"
+			],
+			[
+				"doc",
+				"docFrag"
+			],
+			[
+				"prer",
+				"prerollTotal"
+			],
+			[
+				"curre",
+				"currenOffHtml"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"sp",
+				"spp_visibility"
+			],
+			[
+				"view",
+				"view_visibility"
+			],
+			[
+				"vie",
+				"view_mode"
+			],
+			[
+				"change",
+				"changeView"
+			],
+			[
+				"spp",
+				"spp_mode"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"cuePoint",
+				"CuePoint"
+			],
+			[
+				"intro",
+				"introductionMeasureArray"
+			],
+			[
+				"int",
+				"introductionMeasureArray"
+			],
+			[
+				"count",
+				"countInMeasureArray"
+			],
+			[
+				"countIn",
+				"countInMeasure"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"init",
+				"initLyrics"
+			],
+			[
+				"has",
+				"hasLyrics"
+			],
+			[
+				"loa",
+				"loaded"
+			],
+			[
+				"seek",
+				"seekPercentage"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"ly",
+				"lyrics"
+			],
+			[
+				"nav",
+				"navBack"
+			],
+			[
+				"flv",
+				"FLVCoreCuePoints"
+			],
+			[
+				"pl",
+				"playing"
+			],
+			[
+				"remove",
+				"remove"
+			],
+			[
+				"lyr",
+				"lyric_cue"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"el",
+				"el_name"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"im",
+				"important"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelint",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"subli",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"sublim",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"setsyntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sublimel",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"su",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"sub",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"subl",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"pag",
+				"Package Control: Remove Package"
+			],
+			[
+				"pre",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"File: Copy URL"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"BOwer",
+				"Bower: Install"
+			],
+			[
+				"",
+				"Bower: Install"
+			],
+			[
+				"Bower",
+				"Bower: Install"
+			],
+			[
+				"Bow",
+				"Bower: Configure project"
+			],
+			[
+				"bo",
+				"Bower: Install"
+			],
+			[
+				"bower ",
+				"Bower: Install"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 219.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bobsmith/WORK/html5/compose/package_old.json",
+		"/Users/bobsmith/WORK/html5/compose/src/app.js",
+		"/Users/bobsmith/Downloads/Cabaret Voltaire - Collected Works 1983-1985 CD1 (2013)/New Album Releases.url",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/js/audiosprite.js",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/img/inst/Glock.json",
+		"/Users/bobsmith/Dropbox/demo.charanga.com/bob/index_speed.html",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/js/app.js",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/lib/stats.min.js",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/img/inst/c_clarinet.json",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/lib/sm2/soundmanager2.js",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/lib/sm2/soundmanager2-nodebug-charanga.js",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/img/inst/Glock_off.json",
+		"/Users/bobsmith/Dropbox/demo.charanga.com/bob/sa/appk/js/app.js",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/FindSelected/Default (OSX).sublime-keymap",
+		"/Users/bobsmith/Dropbox/demo.charanga.com/bob/sa/appk/lib/pixi/pixi.js",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/lib/pixi/pixi.js",
+		"/Users/bobsmith/WORK/html5/PixiMinigame/pixi.js-master/examples/example 3 - MovieClip - Copy/index.html",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/img/inst/Clarinet.json",
+		"/Users/bobsmith/WORK/html5/scripts/webserverMAC.bat",
+		"/Users/bobsmith/WORK/html5/scripts/webserverMAC.sh",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/User/SublimeLint.sublime-settings",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-build",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/sublimelint/SublimeLint.sublime-settings",
+		"/Users/bobsmith/WORK/html5/smile_knockout_js/app/pixitest.html",
+		"/Users/bobsmith/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/WORLD/index.html",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/WORLD/js/cmw_world_menu.js",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/dragAndDrop/index.html",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/dragAndDrop/js/dragAndDrop.js",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/scripts/web-server.js",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/WORLD/testBootstrap.html",
+		"/G/Software/things/r2r-0656.rar Folder/R2R.nfo",
+		"/C/Users/bobsmith/Downloads/bootstrap-3.0.1/bootstrap-3.0.1/js/popover.js",
+		"/C/Users/bobsmith/Desktop/InstrumentSprieSheets/star/star.json",
+		"/C/Users/bobsmith/Desktop/InstrumentSprieSheets/star/star_off.json",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/Kiki/avatar 1.5-in progress/Avatar editor 1_5 for Deployment/assets/xml/avatar.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/app/index.html",
+		"/C/Users/bobsmith/Desktop/STARSHINE_EXTRAS/Marching Band/LearnTheSong/assets/whole_song/cues.xml",
+		"/C/Users/bobsmith/Desktop/STARSHINE_EXTRAS/Marching Band/LearnTheSong/assets/whole_song/Marching_band_lyrics.txtlyrics.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/CMW Resources/CMW Clarinet Pieces stages 4-10/cmw_clBb_p_28_spiritFly/assets/perf/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/html5.html",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/WORLD/img/node-available.png",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/cmw_clBb_p_39_washerwoman/resource/cmw_clBb_p_39_washerwoman/assets/smile_score.xml",
+		"/C/Users/bobsmith/Downloads/ZoeParser/ZoeParser.hx",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/cmw_clBb_p_46_inTheGroove/lyrics.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/cmw_clBb_p_39_washerwoman/resource/cmw_clBb_p_39_washerwoman/assets/spp.xml",
+		"/C/charanga/pres/Theoryc_clarinet_C_D22/assets/data2.xml",
+		"//CONGA/resource_library/trumpet/theory/cmw/old_macds_trumpet_tpt_theory/assets/anim.xml",
+		"/C/charanga/fa/unit5.html",
+		"/C/charanga/fa/unit6.html",
+		"/C/Users/bobsmith/Desktop/STARSHINE_EXTRAS/Marching Band/LearnTheSong/assets/whole_song/song.xml",
+		"/C/Users/bobsmith/Desktop/STARSHINE_EXTRAS/Zappy Mends The Roof/Zappy Mends The Roof.txtlyrics.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/UK_THEORY_DEV/Expression/Expression - Dynamics/assets/anim.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/UK_THEORY_DEV/Expression/Expression - p and f/assets/anim.xml",
+		"//CONGA/resource_library/recorder/theory/cmw/two-way_radio_rec_theory/assets/anim.xml",
+		"/C/Users/bobsmith/Desktop/STARSHINE_EXTRAS/Zappy Mends The Roof/LearnTheSong/assets/whole_song/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/09 SMILE piece resource folders FOR ARCHIVE/cmw_clBb_p_54_roundAndRound/resource/cmw_clBb_p_54_roundAndRound/assets/perf/lyrics.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/As2/elearning_resource_players/primary_product/SmilePinnPnuPlayer/assets/spp.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/As2/elearning_resource_players/primary_product/SmilePinnPnuPlayer/assets/smile_score.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/index.html",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/app/js/swipesense.js",
+		"//conga/resource_library/drum/pieces/charanga/cmw/Drum Kit stage 1/cmw_dkit_p_02_extinct/assets/perf/song.xml",
+		"//conga/resource_library/general/audio/licenced/napster/170608/Brahms Hungarian Dance/chTracklist.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/ump_vip_imp_recording/js/recording.js",
+		"/C/Users/Public/Documents/WORK/Charanga new/As2/elearning_resource_players/primary_product/SmilePinnPnuPlayer/assets/perf/lyrics.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/09 SMILE piece resource folders FOR ARCHIVE/cmw_clBb_p_39_washerwoman/SAVE_FILE.xml",
+		"//conga/resource_library/general/audio/licenced/national anthems/U/United Kingdom National Anthem/chTracklist.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/Friday Afternoons/FA_Units_5and6_demos.html",
+		"//conga/resource_library/recorder/pieces/Charanga/CMW/Recorder Stage 1/cmw_rec_p_01a_heyYou/assets/learn_the_song.xml",
+		"/C/Users/bobsmith/Desktop/trial.xml",
+		"/C/Users/bobsmith/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/bobsmith/AppData/Roaming/Sublime Text 2/Packages/xmllint/xmllint.sublime-settings",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/scripts/web-server.js",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/app/lib/sm2/soundmanager2-nodebug-charanga.js",
+		"/C/Users/bobsmith/Downloads/PxLoader-master/PxLoader-master/gruntfile.js",
+		"/C/Users/bobsmith/Downloads/PxLoader-master/PxLoader-master/PxLoader.js",
+		"/C/Users/bobsmith/Downloads/PxLoader-master/PxLoader-master/README",
+		"/C/Users/bobsmith/Downloads/PxLoader-master/PxLoader-master/package.json",
+		"/C/Users/bobsmith/Downloads/PxLoader-master/PxLoader-master/pxloader.externs.js",
+		"/C/Users/bobsmith/Downloads/PxLoader-master/PxLoader-master/PxLoaderVideo.js",
+		"/C/Users/bobsmith/Downloads/PxLoader-master/PxLoader-master/PxLoaderSound.js",
+		"/C/Users/bobsmith/Downloads/PxLoader-master/PxLoader-master/PxLoaderImage.js",
+		"/C/Users/bobsmith/Desktop/InstrumentSprieSheets/tuba/tuba_off.json",
+		"/C/Users/bobsmith/Desktop/InstrumentSprieSheets/tuba/tuba.json",
+		"/C/Users/bobsmith/Desktop/InstrumentSprieSheets/tuba/barieuph.json",
+		"/C/Users/bobsmith/Desktop/InstrumentSprieSheets/valve/trumpet_off.json",
+		"//conga/resource_library/bass (e-flat)/pieces/Charanga/cmw/Eb Bass stage 3/cmw_ebTba_p_13_whatsUp/assets/spp.xml",
+		"//conga/resource_library/general/audio/licenced/national anthems/U/United Kingdom National Anthem/assets/song.xml",
+		"//conga/resource_library/recorder/pieces/Charanga/CMW/Recorder Stage 2/cmw_rec_p_11b_abiesBlues/assets/spp.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/app/js/app.js",
+		"/C/charanga/fa/lessons/online_xml/unit5.xml",
+		"//conga/resource_library/drum/pieces/charanga/cmw/Drum Kit stage 1/cmw_dkit_p_02_extinct/assets/perf/cues.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/assets/reh/song.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/assets/perf/cues.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/cmw_clBb_p_28_spiritFly/cmw_clBb_p_28_spiritFly_lyrics.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/pc_lesson_viewer/Charanga eLearning Resources/resource_library/modules/1299/mod1398.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/cmw_clBb_p_28_spiritFly/SAVE_FILE.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/pc_lesson_viewer/Charanga eLearning Resources/resource_library/modules/1299/mod1399.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/Friday Afternoons/Unit 5/Listen And Appraise - There was a monkey choir version by Benjamin Britten/assets/FA_monkey_learn_whole.txtlyrics.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/Friday Afternoons/Unit 5/Listen And Appraise - There was a monkey choir version by Benjamin Britten/assets/listening_appraisal.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/Friday Afternoons/Unit 5/Listen And Appraise - There was a monkey - Choir version by Benjamin Britten/assets/FA_monkey_learn_whole.txtlyrics.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/video_player/html5/Video.html",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/ump_vip_imp_recording/assets/improvisation.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/ump_vip_imp_recording/assets/Grime_5/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/ump_vip_imp_recording/assets/Grime/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/ump_vip_imp_recording/assets/Grime/cues.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/assets/smile_score.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/assets/perf/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/ump_vip_imp_recording/index.html",
+		"/C/Users/Public/Documents/WORK/Charanga new/pc_lesson_viewer/Charanga eLearning Resources/resource_library/modules/1299/1399/mod1497.xml",
+		"/C/Users/Public/Documents/WORK/Charanga new/pc_lesson_viewer/Charanga eLearning Resources/resource_library/modules/1299/1399/mod1498.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/Friday Afternoons/Unit 2/Games Tracks - Cuckoo by Benjamin Britten/assets/pitch/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/Friday Afternoons/Unit 2/Games Tracks - Cuckoo by Benjamin Britten/assets/voc_2/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/Friday Afternoons/Unit 2/Games Tracks - Cuckoo by Benjamin Britten/assets/voc_3/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/pete/Friday Afternoons/Unit 2/Games Tracks - Cuckoo by Benjamin Britten/assets/voc_1/song.xml",
+		"/C/Users/Public/Documents/WORK/Dropbox/Dropbox/demo.charanga.com/bob/ump_vip_imp_recording/js/swfobject.js",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/assets/recorder.json",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/README.md",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/app/lib/viewporter/viewporter.js",
+		"/C/Users/Public/Documents/WORK/Charanga new/HTML5/html5_players/smile_knockout_js/app/lib/x2js/xml2json.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"swf",
+			".parent",
+			".parent.parent",
+			".debug",
+			".debug{",
+			"debug",
+			"lyrics",
+			"\"skip\"",
+			"initImp",
+			"\"skip\"",
+			"cues",
+			"initPart",
+			"buttongroup",
+			"();\n",
+			"tarr",
+			"dragSound",
+			"loadXml2JSON",
+			">",
+			"style",
+			"refreshBindings",
+			"SmileViewModel",
+			"smile-nav-top",
+			"navbar",
+			"score",
+			"noInstrumentErrorBoolean",
+			" self.noInstrumentErrorBoolean ",
+			"noInstrument",
+			"timeline",
+			".score-container",
+			"37",
+			"38",
+			"36",
+			"32",
+			"smile-nav-back",
+			"countInMeasure",
+			"mediacontrols",
+			"timeline",
+			"mediacontrols",
+			"smile-media",
+			"2px",
+			"controls",
+			"static",
+			"fixed",
+			"instrumentPath",
+			"device",
+			"pageTurn",
+			"currentScoreMeasure",
+			"scoreMeasure",
+			"inject",
+			"cueInject",
+			"cueInjecty",
+			"injectcue",
+			"cueInjection",
+			"loadAnDivScoreImage",
+			"page",
+			"console.log",
+			"page-number",
+			"totalScorePage",
+			"30px",
+			"lyrics",
+			"Touch",
+			"initScore",
+			"\n      ",
+			"545",
+			"54",
+			"540",
+			"545",
+			"mediacontrols",
+			"seek",
+			"lyrics",
+			"lyrics = null",
+			"lyrics=null",
+			"initLyrics",
+			"lyrics",
+			"keyboard",
+			"touchStart",
+			"touch",
+			"sa/appk/",
+			"PIXI_instrument",
+			"resetInstrument",
+			"console.log",
+			"requestAnimationFrame",
+			"self.animationFrame",
+			"self.animationFrame ",
+			"play",
+			"overloaded",
+			"audio",
+			"CATCH",
+			"remy",
+			"play",
+			"magic",
+			"src",
+			"partsArray",
+			"try",
+			"ended",
+			"mainSound",
+			"audio",
+			"sm2",
+			"magic",
+			"seekPercentage",
+			"sound1",
+			"mainSound.destruct();",
+			"initAudio",
+			"mainSound.destruct();",
+			"  mainSound.destruct();",
+			"startAnimatingAfterSetup",
+			"setDataLoadedText",
+			"mainSound",
+			"234",
+			"254",
+			"244",
+			"PIXI_instrument",
+			"currentCue",
+			"currentCue.mc",
+			"PIXI_instrument",
+			".timeline",
+			"glock_off",
+			"glock",
+			"lyrics",
+			"instrumentInjection",
+			"lyrics.el.hide();",
+			"instrumental part",
+			"lyrics.el.hide();",
+			"lyrics.el.show();",
+			"instrumental section",
+			"lyrics",
+			"showLyrics",
+			"showlyrics"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			">\\\\\\n",
+			">\\n",
+			"keys_cmw_1oct",
+			"sa/app/",
+			"Glock_off",
+			"Glock",
+			"self.setLyricsVisibility(false)",
+			"self.setLyricsVisibility(true)",
+			"app/",
+			"I'm",
+			"/",
+			"Clarinet%20stage%20",
+			"cmw_clBb_p_",
+			"clarinet/pieces/Charanga/cmw/Clarinet%20stage",
+			"CLARINET",
+			"currentOffHtml",
+			"preCountInTotal",
+			"view_visibility",
+			"view_mode",
+			"CHARANGA_VIEW_VAR",
+			"545px",
+			"500",
+			"\"#",
+			"#",
+			"self.duration ",
+			"smile_app",
+			"scoreData",
+			"score",
+			"page",
+			"width : 550px;",
+			"js",
+			"html_assets/",
+			"-3",
+			"href=\"Friday_Afternoons/",
+			"href=\"Friday_Afternoons",
+			"hrefFriday_Afternoons",
+			"href=\"Friday_Afternoons/",
+			"about_britten.swf",
+			"</li>",
+			"</B>",
+			"><B>",
+			"(Line by line)",
+			"(Line by Line)</name>",
+			"lbl</name>\n(Line by Line)</name>",
+			" type='prompt'>Listen",
+			"type='prompt'>Listen",
+			"<Data><![CDATA[<font color=\"#ff0000\"> <lrg>1</lrg> </font><font color=\"#33AA\"><rg>2,</rg>  </font><font color=\"#ff0000\"><lrg>1</lrg>  </font><font color=\"#33AA\"><rg>2,</rg>  </font><font color=\"#ff0000\"><lrg>1</lrg></font><font color=\"#33AA\"> <rg>2 3,</rg>       </font>]]></Data>",
+			"line",
+			"section",
+			"ARTICULATIONS-Viola-Up-Down-Bows_usa.swf",
+			"_52_",
+			"bassClarinet_",
+			"bassClarinet",
+			"piccolo",
+			"tenorSax",
+			"tenSax.swf",
+			"guitarElectric.swf",
+			"dBass_strings.swf",
+			"viola_strings.swf",
+			"cello_strings.swf",
+			"tuba.swf",
+			"trombone.swf",
+			"tenor_horn",
+			"Tenor",
+			"tnr_horn",
+			"french_horn.swf",
+			"alto_sax.swf",
+			"TUNING_NOTES/Tuning notes - ",
+			"composeapp_offline.swf",
+			"Latin",
+			"LATIN",
+			"HIGHLAND DANCE",
+			"Highland Dance",
+			"Funk",
+			"FUNK",
+			"BAROQUE",
+			"Baroque",
+			"Bhangra",
+			"BHANGRA",
+			"Primary/Topics/Christmas",
+			"composeapp2",
+			"animation_player",
+			"myavatareditor.swf"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"project": "game-test.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
